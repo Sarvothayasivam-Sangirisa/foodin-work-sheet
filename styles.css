@@ -11,6 +11,9 @@
 .nav-link:hover { color:var(--secondary-color);
 
    }
+   #logo {
+    margin-left: 250px;
+  }
   
 
 h1{
@@ -54,13 +57,23 @@ p {
     /* text-align: center; */
 }
 .main{display: flex;}
-.two{margin-top: 100px;}
+.two{margin-top: 100px;
+padding: 20px;
+align-items: center;}
+#thick{color: var(--primary-color);}
+#paraheding{padding-left: 180px;}
+#food{color:var(--secondary-color)}
 
 
 .section img {
     width: 500px;
     height: auto;
+    padding: 50x;
+    
 }
+/* #photo{  width: 500px;
+    height: auto;
+padding-right:350px ;} */
 
 .section h2 {
     font-size: 48px;
