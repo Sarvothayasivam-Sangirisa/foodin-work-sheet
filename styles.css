@@ -11,7 +11,11 @@
 .nav-link:hover { color:var(--secondary-color);
 
    }
- 
+.nav-item {
+    justify-content: space-between;
+    }
+
+
 .items{
     padding-left: 100px;
     display: flex;
